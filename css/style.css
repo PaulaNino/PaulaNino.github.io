@@ -6373,7 +6373,7 @@ button.bg-primary:focus {
 }
 
 .bg-jose2 {
-  background-color: ##DAF7A6 !important;
+  background-color: #DAF7A6 !important;
 }
 
 .bg-jose3 {
@@ -6390,6 +6390,13 @@ button.bg-primary:focus {
 
 .bg-jose6 {
   background-color: #2980B9 !important;
+}
+.bg-jose7 {
+  background-color: #0056b3 !important;
+}
+
+.bg-jose8 {
+  background-color: #5a2d8c !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
